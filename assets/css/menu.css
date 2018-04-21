@@ -1,0 +1,19 @@
+.price_menu {
+    color:#f35858;;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: left;
+}
+
+.item{
+    text-align: left;
+    font-weight: bold;
+}
+
+.price{
+    text-align: right;
+}
+
+.ingredients{
+    text-align: left;
+}
