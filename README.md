@@ -1,4 +1,4 @@
-# daichan
+# Daichan
 
 Daichan is a website developed for a family owned Japanese restaurant. This static site displays crucial information about the restaurant, and surveys the customers’ favorite dishes using firebase survey form.
 
