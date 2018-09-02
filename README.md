@@ -7,8 +7,8 @@ Daichan is a website developed for a family owned Japanese restaurant. This stat
 #View live app @: https://jhanisusm.github.io/daichan/
 
 
-Authors/Contributors
-Jhanisus Melendez
-Adam Gustafson
-Jaylee Maruk (PM)
-Daniel Murillo
+#Authors/Contributors
+* Jhanisus Melendez
+* Adam Gustafson
+* Jaylee Maruk (PM)
+* Daniel Murillo
